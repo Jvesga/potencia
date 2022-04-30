@@ -1,3 +1,3 @@
 Programa pa hacer calculos simples de potenciacion 
 
-![diagramadeflujo](
+![diagramadeflujo](diagrama.png)
